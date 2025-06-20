@@ -3,7 +3,7 @@ import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
-import RegisterScreen from "../screens/Auth/Register"; // Importação corrigida para 'Register'
+import RegisterScreen from "../screens/Auth/Register"; 
 import LoginScreen from "../screens/Auth/LoginScreen";
 import ForgotPasswordScreen from "../screens/Auth/ForgotPasswordScreen";
 
